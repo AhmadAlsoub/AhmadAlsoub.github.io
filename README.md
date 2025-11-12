@@ -32,6 +32,4 @@ You can visit the live version of my portfolio here:
 - 🐙 GitHub: [AhmadAlsoub](https://github.com/AhmadAlsoub)  
 - 📞 Phone: +962799043589  
 
----
 
-⭐ *If you like this project, feel free to give it a star on GitHub!*
